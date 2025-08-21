@@ -58,7 +58,7 @@ The **Placement Connect System** is a role-based application that simplifies how
 
 ## 🌐 Deployment
 
-🔗 **Live Application**:(https://placement-connect-pnkr.onrender.com/)
+🔗 **Live Application**:https://placement-connect-pnkr.onrender.com/
 
 🎥 **Video Walkthrough**: https://www.linkedin.com/posts/harshini-v-7977182a9_excited-to-announce-this-is-my-small-project-activity-7346909554330255361-u3iH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEpSr2MBaNqvVo7exXHCrnBVDgQZhU5NhaA
 ---
@@ -119,8 +119,8 @@ Ensure these are installed:
 
 ### 🌐 Access
 
-* App: (http://localhost:3000)
-* API:(http://localhost:5000/api)
+* App: http://localhost:3000
+* API:http://localhost:5000/api
 
 ---
 
