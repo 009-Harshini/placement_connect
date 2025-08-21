@@ -1,6 +1,3 @@
-Got it 👍 You want me to **rephrase the README content** so it looks different (no copy-paste from your teammate’s repo), while keeping the same meaning. Here’s a rewritten version with different wordings, simplified structure, and no mention of the original author:
-
----
 
 # 🎓 Student Performance & Placement Connect
 
@@ -61,9 +58,9 @@ The **Placement Connect System** is a role-based application that simplifies how
 
 ## 🌐 Deployment
 
-🔗 **Live Application**: [Placement Connect Demo](https://placement-connect-pnkr.onrender.com/)
+🔗 **Live Application**:(https://placement-connect-pnkr.onrender.com/)
 
-🎥 **Video Walkthrough**: [Demo Video]https://www.linkedin.com/posts/harshini-v-7977182a9_excited-to-announce-this-is-my-small-project-activity-7346909554330255361-u3iH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEpSr2MBaNqvVo7exXHCrnBVDgQZhU5NhaA
+🎥 **Video Walkthrough**: https://www.linkedin.com/posts/harshini-v-7977182a9_excited-to-announce-this-is-my-small-project-activity-7346909554330255361-u3iH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEpSr2MBaNqvVo7exXHCrnBVDgQZhU5NhaA
 ---
 
 ## 🚀 Setup & Installation
@@ -122,14 +119,14 @@ Ensure these are installed:
 
 ### 🌐 Access
 
-* App: [http://localhost:3000](http://localhost:3000)
-* API: [http://localhost:5000/api](http://localhost:5000/api)
+* App: (http://localhost:3000)
+* API:(http://localhost:5000/api)
 
 ---
 
 👩‍💻 Author
 
-Jeyashree TN
+HARSHINI V
 
 Developed as part of an academic project.
 
