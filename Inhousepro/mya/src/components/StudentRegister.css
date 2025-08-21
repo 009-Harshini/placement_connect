@@ -1,0 +1,80 @@
+/* Container Styling */
+.student-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+/* Rectangular Card View */
+.student-card {
+  width: 100%;
+  max-width: 900px;
+  padding: 40px;
+  border-radius: 20px; /* Curved corners */
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+/* Form Styling */
+.student-form {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+/* Full-width fields inside grid */
+.student-form input,
+.student-form textarea {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+/* Full-width button across both columns */
+.student-button {
+  grid-column: span 2;
+  width: 100%;
+  padding: 12px;
+  background-color: #021a31;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.student-button:hover {
+  background-color: #8d9fb0;
+}
+
+/* Title Styling */
+.student-title {
+  text-align: center;
+  color: #021a31;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+/* Link Styling */
+.student-link {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.student-link .link-button {
+  background: none;
+  border: none;
+  color: #1976d2;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.student-link .link-button:hover {
+  text-decoration: underline;
+}
